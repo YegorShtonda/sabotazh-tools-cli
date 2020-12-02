@@ -1,2 +1,2 @@
-# sabotazh-tools-cli
-CLI for Sabotazh Backend Tools
+# sabotazh-tools-sdk
+SDK for Sabotazh Backend Tools
