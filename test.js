@@ -1,8 +1,4 @@
-# SABOTAZH TOOLS SDK
-
-Example:
-```javascript
-const SabotazhTools = require('sabotazh-tools-sdk');
+const SabotazhTools = require('./index');
 const sabotazh = new SabotazhTools('SABOTAZH_TOKEN');
 
 const test = async () => {
@@ -20,4 +16,3 @@ const test = async () => {
 }
 
 test();
-```
