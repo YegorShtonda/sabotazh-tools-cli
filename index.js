@@ -9,7 +9,7 @@ class SabotazhTools {
         this.domain = 'https://proxy.sabotazh.com';
     }
 
-    throwReponseError(response) {
+    throwResponseError(response) {
         const dashes = '----------------------------------------';
         console.error(`\n${dashes}\n|       SABOTAZH TOOLS SDK ERROR       |\n${dashes}`)
         console.error(`[error] Response status: ${response.statusText}`)
